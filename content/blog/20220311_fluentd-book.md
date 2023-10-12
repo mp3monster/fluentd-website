@@ -19,4 +19,4 @@ The book can be ordered directly from Manning or other booksellers in print or e
 - [Barnes & Noble](https://www.barnesandnoble.com/w/logging-in-action-phil-wilkins/1139123954?ean=9781617298356)
 - [Waterstones](https://www.waterstones.com/book/logging-in-action-with-fluentd-kubernetes-and-more/phil-wilkins/9781617298356)
 
-Phil Wilkins
+ AUTHOR:Phil Wilkins
